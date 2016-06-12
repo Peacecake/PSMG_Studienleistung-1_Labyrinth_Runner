@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2F780F99-ABC2-7224-46A2-67C10D32A4E2}") = "PSMG_Studienleistung-1_Pirate-Jumper", "Assembly-CSharp.csproj", "{DDDB73DD-6531-33CB-DAC8-99E61E9AA38F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDDB73DD-6531-33CB-DAC8-99E61E9AA38F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDB73DD-6531-33CB-DAC8-99E61E9AA38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDB73DD-6531-33CB-DAC8-99E61E9AA38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDB73DD-6531-33CB-DAC8-99E61E9AA38F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
